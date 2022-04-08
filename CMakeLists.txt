@@ -9,3 +9,4 @@ if(WITH_BOOST_TEST)
 endif()
 
 add_subdirectory(homework1)
+add_subdirectory(homework2)
