@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup environment
-        run: sudo apt-get update && sudo apt-get install -y gcovr libboost-test-dev
+        run: sudo apt-get update && sudo apt-get install -y doxygen graphviz gcovr libboost-test-dev
       
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -32,3 +32,9 @@ jobs:
         with:
           name: code-coverage-report
           path: code-coverage-report
+
+      - name: Upload html docs
+        uses: actions/upload-artifact@v3
+        with:
+          name: html-docs
+          path: docs/html
