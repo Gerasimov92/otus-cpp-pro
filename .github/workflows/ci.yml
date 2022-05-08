@@ -1,4 +1,4 @@
-name: 'Build and test'
+name: 'CI'
 
 on: [push]
 
@@ -38,3 +38,18 @@ jobs:
         with:
           name: html-docs
           path: docs/html
+  
+  deploy:
+    if: github.ref_name == 'main'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v3
+        with:
+          name: html-docs
+
+      - name: Deploy html docs
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
