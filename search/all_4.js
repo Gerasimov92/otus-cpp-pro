@@ -1,11 +1,6 @@
 var searchData=
 [
-  ['ipv4address_8',['IPv4Address',['../classIPv4Address.html',1,'IPv4Address'],['../classIPv4Address.html#ad31584e3c954cce89a22f570468983e3',1,'IPv4Address::IPv4Address()']]],
-  ['ipv4address_2ecpp_9',['IPv4Address.cpp',['../IPv4Address_8cpp.html',1,'']]],
-  ['ipv4address_2eh_10',['IPv4Address.h',['../IPv4Address_8h.html',1,'']]],
-  ['ipv4filter_11',['IPv4Filter',['../namespaceIPv4Filter.html',1,'']]],
-  ['ipv4filter_2ecpp_12',['IPv4Filter.cpp',['../IPv4Filter_8cpp.html',1,'']]],
-  ['ipv4filter_2eh_13',['IPv4Filter.h',['../IPv4Filter_8h.html',1,'']]],
-  ['is_5fall_5fsame_14',['is_all_same',['../print__ip_8h.html#aba3f63ec22d9c80b4bc0dff7b800de8a',1,'print_ip.h']]],
-  ['is_5fiterable_15',['is_iterable',['../print__ip_8h.html#a362f6a798f49c1416202aef3f908a064',1,'print_ip.h']]]
+  ['deallocate_13',['deallocate',['../classReserveAllocator.html#a854b7ac632217e1743dec16cc81d6080',1,'ReserveAllocator']]],
+  ['destroy_14',['destroy',['../classReserveAllocator.html#a6033ece8ac75a227cd678eb9a05e5bb2',1,'ReserveAllocator']]],
+  ['difference_5ftype_15',['difference_type',['../structForwardListIterator.html#afdd0b735413e4b99335240102101ec1e',1,'ForwardListIterator::difference_type()'],['../structForwardListConstIterator.html#afdabf31cf5033a57d14f1a162c2cb8c5',1,'ForwardListConstIterator::difference_type()']]]
 ];
