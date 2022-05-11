@@ -8,6 +8,8 @@ if(WITH_BOOST_TEST)
     enable_testing()
 endif()
 
+add_subdirectory(docs)
 add_subdirectory(homework1)
 add_subdirectory(homework2)
 add_subdirectory(homework3)
+add_subdirectory(homework4)
