@@ -10,3 +10,4 @@ endif()
 
 add_subdirectory(homework1)
 add_subdirectory(homework2)
+add_subdirectory(homework3)
