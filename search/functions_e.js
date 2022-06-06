@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_7ereserveallocator_129',['~ReserveAllocator',['../classReserveAllocator.html#afee955b835f091ecedb857c82c8fa9f8',1,'ReserveAllocator']]]
+  ['valueproxy_146',['ValueProxy',['../classMatrix_1_1ValueProxy.html#a84e2eed8a484754a9badfcb9184a9f98',1,'Matrix::ValueProxy']]]
 ];

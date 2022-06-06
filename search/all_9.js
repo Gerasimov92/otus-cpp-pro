@@ -7,5 +7,5 @@ var searchData=
   ['ipv4filter_2ecpp_34',['IPv4Filter.cpp',['../IPv4Filter_8cpp.html',1,'']]],
   ['ipv4filter_2eh_35',['IPv4Filter.h',['../IPv4Filter_8h.html',1,'']]],
   ['is_5fall_5fsame_36',['is_all_same',['../print__ip_8h.html#aba3f63ec22d9c80b4bc0dff7b800de8a',1,'print_ip.h']]],
-  ['iterator_37',['iterator',['../classForwardList.html#a796bfc35253f2ef681f5f5406efd0ade',1,'ForwardList']]]
+  ['iterator_37',['iterator',['../classForwardList.html#a796bfc35253f2ef681f5f5406efd0ade',1,'ForwardList::iterator()'],['../classMatrix.html#ab34f5db89967a0c25fb0a2d73602d620',1,'Matrix::iterator()']]]
 ];
