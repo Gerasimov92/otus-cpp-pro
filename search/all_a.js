@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['m_5fnode_38',['m_node',['../structForwardListIterator.html#a7e9dfbd800e91238e4ae2e9acd120ac6',1,'ForwardListIterator::m_node()'],['../structForwardListConstIterator.html#ac76d2363479ad264d29faf363e656551',1,'ForwardListConstIterator::m_node()']]],
-  ['main_39',['main',['../homework1_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework2_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework3_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework4_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework6_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp']]],
-  ['main_2ecpp_40',['main.cpp',['../homework1_2main_8cpp.html',1,'(Global Namespace)'],['../homework2_2main_8cpp.html',1,'(Global Namespace)'],['../homework3_2main_8cpp.html',1,'(Global Namespace)'],['../homework4_2main_8cpp.html',1,'(Global Namespace)'],['../homework6_2main_8cpp.html',1,'(Global Namespace)']]],
-  ['matrix_41',['Matrix',['../classMatrix.html',1,'']]],
-  ['matrix_2eh_42',['Matrix.h',['../Matrix_8h.html',1,'']]]
+  ['line_63',['Line',['../classLine.html',1,'Line'],['../classLine.html#a3ce74da9763aa67fd4c05dcd259a0671',1,'Line::Line()']]],
+  ['line_2ecpp_64',['Line.cpp',['../Line_8cpp.html',1,'']]],
+  ['line_2eh_65',['Line.h',['../Line_8h.html',1,'']]],
+  ['loaddocument_66',['loadDocument',['../classIController.html#a10c129d56788b908f066b6a2562b3d8c',1,'IController::loadDocument()'],['../classTestController.html#a6f0246c1f9031993a0b21c87c6b54b8e',1,'TestController::loadDocument()']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_7ereserveallocator_78',['~ReserveAllocator',['../classReserveAllocator.html#afee955b835f091ecedb857c82c8fa9f8',1,'ReserveAllocator']]]
+  ['update_123',['update',['../classIObserver.html#a91a4770cbec97439f2faba69a1ed72e0',1,'IObserver::update()'],['../classConsoleView.html#a5f991c0f2c2b430efdee7b706105575d',1,'ConsoleView::update()']]]
 ];
