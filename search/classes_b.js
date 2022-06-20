@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['valueproxy_158',['ValueProxy',['../classMatrix_1_1ValueProxy.html',1,'Matrix']]]
+  ['testcontroller_194',['TestController',['../classTestController.html',1,'']]],
+  ['testvisitor_195',['TestVisitor',['../classTestVisitor.html',1,'']]]
 ];
