@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['next_326',['next',['../structForwardListNode.html#a83c016d4d6ac1b84ffd78141dcc6a5b2',1,'ForwardListNode']]]
+  ['checksumtype_353',['checksumType',['../structConfig.html#aae00d88f8a8ec00d46075f1e21e8fcbf',1,'Config']]]
 ];

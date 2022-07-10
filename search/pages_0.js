@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['otus_2dcpp_2dpro_344',['otus-cpp-pro',['../index.html',1,'']]]
+  ['allowed_20options_3a_384',['Allowed options:',['../index.html',1,'']]]
 ];

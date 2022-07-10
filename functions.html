@@ -88,6 +88,9 @@ $(function() {
 <li>allocate()
 : <a class="el" href="classReserveAllocator.html#a626e8ea5ced0147e26cc6778c8aa051f">ReserveAllocator&lt; T, ChunkSize &gt;</a>
 </li>
+<li>allowedFileNameMasks
+: <a class="el" href="structConfig.html#a5aa4fecff87197fd5167a429b02d2d6f">Config</a>
+</li>
 <li>attach()
 : <a class="el" href="classObservable.html#ab3c072779af9988daf68feffebdbf244">Observable</a>
 </li>
@@ -99,7 +102,13 @@ $(function() {
 : <a class="el" href="classConsoleRenderer.html#a2b9ce604b1ada51133b7cdcb05c6f832">ConsoleRenderer</a>
 , <a class="el" href="classForwardList.html#ad035c76c1fd7b18d6f9467ab7d739e26">ForwardList&lt; T, Allocator &gt;</a>
 , <a class="el" href="classIRenderer.html#a77921212599bd371ea7d1fe23e67bf53">IRenderer</a>
-, <a class="el" href="classMatrix.html#a69be4c6045de62369136c4068600fb6c">Matrix&lt; T, DefaultValue &gt;</a>
+, <a class="el" href="classMatrix.html#aabe0405fb9aee5221fe5c396ac88ab5e">Matrix&lt; T, DefaultValue &gt;</a>
+</li>
+<li>blockChecksum
+: <a class="el" href="structFileInfo.html#ac0936aabaa5531725382adb6a83a6615">FileInfo</a>
+</li>
+<li>blockSize
+: <a class="el" href="structConfig.html#abca7e9d20ef88abff2e3007f5fa4dab4">Config</a>
 </li>
 <li>bytes()
 : <a class="el" href="classIPv4Address.html#ab52359040502e0777eb563b5f22fb56e">IPv4Address</a>
@@ -115,6 +124,9 @@ $(function() {
 <li>cend()
 : <a class="el" href="classForwardList.html#af46ce05764bbd2b639f58fedb9ef294a">ForwardList&lt; T, Allocator &gt;</a>
 , <a class="el" href="classMatrix.html#ac03796e7e7396b086e36395b1e263569">Matrix&lt; T, DefaultValue &gt;</a>
+</li>
+<li>checksumType
+: <a class="el" href="structConfig.html#aae00d88f8a8ec00d46075f1e21e8fcbf">Config</a>
 </li>
 <li>clear()
 : <a class="el" href="classDocument.html#a3f0ace24f5f5d0e86a8674927b881100">Document</a>
@@ -176,6 +188,9 @@ $(function() {
 : <a class="el" href="classConsoleRenderer.html#a10809929a1efbe6af292fc95233481c9">ConsoleRenderer</a>
 , <a class="el" href="classIRenderer.html#a97ec097c9ada100c689457a337e65110">IRenderer</a>
 </li>
+<li>DuplicateFinder()
+: <a class="el" href="classDuplicateFinder.html#a2668dcfeccf41a7892546178130b7546">DuplicateFinder</a>
+</li>
 </ul>
 
 
@@ -187,12 +202,21 @@ $(function() {
 : <a class="el" href="classConsoleRenderer.html#a5d7c98f07d2237e89a356607c593ce5b">ConsoleRenderer</a>
 , <a class="el" href="classForwardList.html#aeeb9a2acda4cd46e681a132806831bc9">ForwardList&lt; T, Allocator &gt;</a>
 , <a class="el" href="classIRenderer.html#a39b51eb6e2d4b78f8f28699dc13d5fcf">IRenderer</a>
-, <a class="el" href="classMatrix.html#ab150a31d4bccb323640ef98cc8362138">Matrix&lt; T, DefaultValue &gt;</a>
+, <a class="el" href="classMatrix.html#a68feb1c4514ee677647fef2d405c44e8">Matrix&lt; T, DefaultValue &gt;</a>
+</li>
+<li>excludeDirs
+: <a class="el" href="structConfig.html#a913094c45a24834205e74b2708809c86">Config</a>
 </li>
 </ul>
 
 
 <h3><a id="index_f"></a>- f -</h3><ul>
+<li>FileInfo()
+: <a class="el" href="structFileInfo.html#a4fd48360c1403edf45f11cb4bd936a8d">FileInfo</a>
+</li>
+<li>findDuplicates()
+: <a class="el" href="classDuplicateFinder.html#a5994fb5dbf63f263e276b87fa512dd9f">DuplicateFinder</a>
+</li>
 <li>ForwardList()
 : <a class="el" href="classForwardList.html#a0b72827631390324136e59db08ef7858">ForwardList&lt; T, Allocator &gt;</a>
 </li>
@@ -222,6 +246,9 @@ $(function() {
 <li>IPv4Address()
 : <a class="el" href="classIPv4Address.html#ad31584e3c954cce89a22f570468983e3">IPv4Address</a>
 </li>
+<li>isProcessed
+: <a class="el" href="structFileInfo.html#ad42d26ed1b42947d4abca0b21950a672">FileInfo</a>
+</li>
 <li>iterator
 : <a class="el" href="classForwardList.html#a796bfc35253f2ef681f5f5406efd0ade">ForwardList&lt; T, Allocator &gt;</a>
 , <a class="el" href="classMatrix.html#ab34f5db89967a0c25fb0a2d73602d620">Matrix&lt; T, DefaultValue &gt;</a>
@@ -244,6 +271,12 @@ $(function() {
 <li>m_node
 : <a class="el" href="structForwardListConstIterator.html#ac76d2363479ad264d29faf363e656551">ForwardListConstIterator&lt; T &gt;</a>
 , <a class="el" href="structForwardListIterator.html#a7e9dfbd800e91238e4ae2e9acd120ac6">ForwardListIterator&lt; T &gt;</a>
+</li>
+<li>maxDepth
+: <a class="el" href="structConfig.html#abd181e9dba9f69c4eaa9f3ba3454ad45">Config</a>
+</li>
+<li>minFileSize
+: <a class="el" href="structConfig.html#a4a38c494ed9c1e1cafa08bd985b697df">Config</a>
 </li>
 </ul>
 
@@ -330,6 +363,9 @@ $(function() {
 <li>Parser()
 : <a class="el" href="classParser.html#a3932c53bb92dfad95fb65a3fe2395a35">Parser</a>
 </li>
+<li>path
+: <a class="el" href="structFileInfo.html#a8f4b1e0c17ae9bc74347407299c9c93a">FileInfo</a>
+</li>
 <li>pointer
 : <a class="el" href="structForwardListConstIterator.html#aacaeb2d570b88696b204319493eab283">ForwardListConstIterator&lt; T &gt;</a>
 , <a class="el" href="structForwardListIterator.html#a60af812042d5b4c976b2622808ead95a">ForwardListIterator&lt; T &gt;</a>
@@ -379,11 +415,15 @@ $(function() {
 : <a class="el" href="classIController.html#a8ae020897860328cf2fd88937a0117ac">IController</a>
 , <a class="el" href="classTestController.html#a5019477eb4fe77a04c9dd262af2bc9fe">TestController</a>
 </li>
+<li>scanDirs
+: <a class="el" href="structConfig.html#ad638de9406ab4a687f94ef0cc11bb4ed">Config</a>
+</li>
 <li>select_on_container_copy_construction()
 : <a class="el" href="classReserveAllocator.html#aecb58f4f274263a3b9b56b91188f9392">ReserveAllocator&lt; T, ChunkSize &gt;</a>
 </li>
-<li>size()
-: <a class="el" href="classMatrix.html#ae9e42cafafa13ebcf0005b4ad1d92fad">Matrix&lt; T, DefaultValue &gt;</a>
+<li>size
+: <a class="el" href="structFileInfo.html#a9d1e5dfa8fc8298ffdfd6a949499f829">FileInfo</a>
+, <a class="el" href="classMatrix.html#ae9e42cafafa13ebcf0005b4ad1d92fad">Matrix&lt; T, DefaultValue &gt;</a>
 </li>
 </ul>
 

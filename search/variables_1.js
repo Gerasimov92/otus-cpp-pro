@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['m_5fnode_325',['m_node',['../structForwardListIterator.html#a7e9dfbd800e91238e4ae2e9acd120ac6',1,'ForwardListIterator::m_node()'],['../structForwardListConstIterator.html#ac76d2363479ad264d29faf363e656551',1,'ForwardListConstIterator::m_node()']]]
+  ['blockchecksum_351',['blockChecksum',['../structFileInfo.html#ac0936aabaa5531725382adb6a83a6615',1,'FileInfo']]],
+  ['blocksize_352',['blockSize',['../structConfig.html#abca7e9d20ef88abff2e3007f5fa4dab4',1,'Config']]]
 ];
