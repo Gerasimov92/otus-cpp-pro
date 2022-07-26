@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['ipv4address_300',['IPv4Address',['../classIPv4Address.html#ad31584e3c954cce89a22f570468983e3',1,'IPv4Address']]]
+  ['handle_317',['Handle',['../structasync_1_1Handle.html#aec95f91588439a44dd542d77e3a85941',1,'async::Handle']]]
 ];

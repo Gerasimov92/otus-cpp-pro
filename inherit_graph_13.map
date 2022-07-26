@@ -1,5 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classIVisitable.html" title=" " alt="" coords="5,31,88,57"/>
-<area shape="rect" id="node2" href="$classCommand.html" title=" " alt="" coords="151,5,240,32"/>
-<area shape="rect" id="node3" href="$classCommandBulk.html" title=" " alt="" coords="136,56,255,83"/>
+<area shape="rect" id="node1" href="$classIShape.html" title=" " alt="" coords="5,56,72,83"/>
+<area shape="rect" id="node2" href="$classCompositeShape.html" title=" " alt="" coords="120,5,252,32"/>
+<area shape="rect" id="node3" href="$classLine.html" title=" " alt="" coords="161,56,211,83"/>
+<area shape="rect" id="node4" href="$classRectangle.html" title=" " alt="" coords="143,107,229,133"/>
 </map>

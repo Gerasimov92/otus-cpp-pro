@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['newdocument_304',['newDocument',['../classIController.html#a94ef9685f82aedcfc923e465464d0943',1,'IController::newDocument()'],['../classTestController.html#a43b88957a86a4e310cfdba0c72da6542',1,'TestController::newDocument()']]],
-  ['notify_305',['notify',['../classObservable.html#a099bf851e05bb8c1a25e83f2a1389e58',1,'Observable']]]
+  ['main_321',['main',['../homework1_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework2_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework3_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework4_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework5_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework6_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework7_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../homework8_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../homework9_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['reference_376',['reference',['../structForwardListIterator.html#a6cadc154fb237e9cabd9cb0cfa7457fe',1,'ForwardListIterator::reference()'],['../structForwardListConstIterator.html#a6bbe020a587213b54256868d0b0166f8',1,'ForwardListConstIterator::reference()'],['../classForwardList.html#a16d00361a147cfe450baea6c29f72cb1',1,'ForwardList::reference()'],['../classReserveAllocator.html#a7c89ba5952dfa14653c3b7dd3f46dc82',1,'ReserveAllocator::reference()']]]
+  ['pointer_399',['pointer',['../structForwardListIterator.html#a60af812042d5b4c976b2622808ead95a',1,'ForwardListIterator::pointer()'],['../structForwardListConstIterator.html#aacaeb2d570b88696b204319493eab283',1,'ForwardListConstIterator::pointer()'],['../classReserveAllocator.html#a2c37aafbf9a3fc2ebf707f843b885ff0',1,'ReserveAllocator::pointer()']]]
 ];
