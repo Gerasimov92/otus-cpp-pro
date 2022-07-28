@@ -9,7 +9,7 @@ Parser::Parser(std::istream &input, size_t maxBulkSize) :
     m_nestingLevel(0)
 {}
 
-std::unique_ptr<IVisitable> Parser::parse()
+std::unique_ptr<IVisitable> Parser::parse(bool combineStaticBlocks)
 {
     std::list<Command> commands;
     std::string token;
@@ -41,6 +41,9 @@ std::unique_ptr<IVisitable> Parser::parse()
             else
                 continue;
         }
+
+        if (!combineStaticBlocks && commands.empty())
+            return std::make_unique<Command>(currentTime(), token);
 
         commands.push_back(Command(currentTime(), token));
 
