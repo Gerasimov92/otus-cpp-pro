@@ -11,7 +11,7 @@ class Parser
 public:
     Parser(std::istream &input, size_t maxBulkSize);
 
-    std::unique_ptr<IVisitable> parse();
+    std::unique_ptr<IVisitable> parse(bool combineStaticBlocks = true);
 
 private:
     std::uint64_t currentTime();
