@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['savetofilevisitor_226',['SaveToFileVisitor',['../classSaveToFileVisitor.html',1,'']]]
+  ['savetofilevisitor_235',['SaveToFileVisitor',['../classSaveToFileVisitor.html',1,'']]],
+  ['server_236',['Server',['../classServer.html',1,'']]]
 ];
