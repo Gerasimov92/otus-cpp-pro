@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['y_408',['y',['../structPoint.html#a2e1b5fb2b2a83571f5c0bc0f66a73cf7',1,'Point']]]
+  ['scandirs_451',['scanDirs',['../structConfig.html#ad638de9406ab4a687f94ef0cc11bb4ed',1,'Config']]],
+  ['size_452',['size',['../structFileInfo.html#a9d1e5dfa8fc8298ffdfd6a949499f829',1,'FileInfo']]]
 ];

@@ -1,12 +1,9 @@
 var searchData=
 [
-  ['m_5fnode_100',['m_node',['../structForwardListIterator.html#a7e9dfbd800e91238e4ae2e9acd120ac6',1,'ForwardListIterator::m_node()'],['../structForwardListConstIterator.html#ac76d2363479ad264d29faf363e656551',1,'ForwardListConstIterator::m_node()']]],
-  ['main_101',['main',['../homework1_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework10_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../homework2_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework3_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework4_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework5_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework6_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../homework7_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../homework8_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../homework9_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
-  ['main_2ecpp_102',['main.cpp',['../homework1_2main_8cpp.html',1,'(Global Namespace)'],['../homework10_2main_8cpp.html',1,'(Global Namespace)'],['../homework2_2main_8cpp.html',1,'(Global Namespace)'],['../homework3_2main_8cpp.html',1,'(Global Namespace)'],['../homework4_2main_8cpp.html',1,'(Global Namespace)'],['../homework5_2main_8cpp.html',1,'(Global Namespace)'],['../homework6_2main_8cpp.html',1,'(Global Namespace)'],['../homework7_2main_8cpp.html',1,'(Global Namespace)'],['../homework8_2main_8cpp.html',1,'(Global Namespace)'],['../homework9_2main_8cpp.html',1,'(Global Namespace)']]],
-  ['matrix_103',['Matrix',['../classMatrix.html',1,'']]],
-  ['matrix_2eh_104',['Matrix.h',['../Matrix_8h.html',1,'']]],
-  ['maxbulksize_105',['maxBulkSize',['../structasync_1_1Handle.html#ad05704e73c271d76af54a551aa799cc7',1,'async::Handle']]],
-  ['maxdepth_106',['maxDepth',['../structConfig.html#abd181e9dba9f69c4eaa9f3ba3454ad45',1,'Config']]],
-  ['md5_107',['MD5',['../DuplicateFinder_8h.html#a6440df7f4dbfc4c3370e2b6781bc74e5a7f138a09169b250e9dcb378140907378',1,'DuplicateFinder.h']]],
-  ['minfilesize_108',['minFileSize',['../structConfig.html#a4a38c494ed9c1e1cafa08bd985b697df',1,'Config']]]
+  ['line_102',['Line',['../classLine.html',1,'Line'],['../classLine.html#a3ce74da9763aa67fd4c05dcd259a0671',1,'Line::Line()']]],
+  ['line_2ecpp_103',['Line.cpp',['../Line_8cpp.html',1,'']]],
+  ['line_2eh_104',['Line.h',['../Line_8h.html',1,'']]],
+  ['load_105',['load',['../classMapReduce.html#ae2d16269327dcd01a233005ff5cf24f0',1,'MapReduce']]],
+  ['loaddocument_106',['loadDocument',['../classIController.html#a10c129d56788b908f066b6a2562b3d8c',1,'IController::loadDocument()'],['../classTestController.html#a6f0246c1f9031993a0b21c87c6b54b8e',1,'TestController::loadDocument()']]],
+  ['loadresult_107',['LoadResult',['../classMapReduce_1_1LoadResult.html',1,'MapReduce::LoadResult'],['../classMapReduce_1_1LoadResult.html#ab6428a2497c887b21b518ace75c6a9f6',1,'MapReduce::LoadResult::LoadResult()']]]
 ];

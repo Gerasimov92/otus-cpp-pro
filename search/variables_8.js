@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['scandirs_403',['scanDirs',['../structConfig.html#ad638de9406ab4a687f94ef0cc11bb4ed',1,'Config']]],
-  ['size_404',['size',['../structFileInfo.html#a9d1e5dfa8fc8298ffdfd6a949499f829',1,'FileInfo']]]
+  ['output_448',['output',['../structMapperHandle.html#abf9ddb8a624557a4f815d395ffff23b8',1,'MapperHandle::output()'],['../structReducerHandle.html#ad870eed7d5b7e2e70d44618c9bef693b',1,'ReducerHandle::output()']]]
 ];
