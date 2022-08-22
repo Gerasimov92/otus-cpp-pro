@@ -4,7 +4,7 @@ var searchData=
   ['cend_20',['cend',['../classForwardList.html#af46ce05764bbd2b639f58fedb9ef294a',1,'ForwardList::cend()'],['../classMatrix.html#ac03796e7e7396b086e36395b1e263569',1,'Matrix::cend()']]],
   ['checksumtype_21',['checksumType',['../structConfig.html#aae00d88f8a8ec00d46075f1e21e8fcbf',1,'Config::checksumType()'],['../DuplicateFinder_8h.html#a6440df7f4dbfc4c3370e2b6781bc74e5',1,'ChecksumType():&#160;DuplicateFinder.h']]],
   ['clear_22',['clear',['../classForwardList.html#ae5399f930b0e40d3e9e490db223d3981',1,'ForwardList::clear()'],['../classDocument.html#a3f0ace24f5f5d0e86a8674927b881100',1,'Document::clear()']]],
-  ['clientsession_23',['ClientSession',['../classClientSession.html',1,'ClientSession'],['../classClientSession.html#a1451bd58f9a13054ded36e05d10e8adc',1,'ClientSession::ClientSession()']]],
+  ['clientsession_23',['ClientSession',['../classClientSession.html',1,'ClientSession'],['../classClientSession.html#a1451bd58f9a13054ded36e05d10e8adc',1,'ClientSession::ClientSession(boost::asio::ip::tcp::socket socket, std::size_t maxBulkSize)'],['../classClientSession.html#a2d569b37d51831f22ceaeea968dde80d',1,'ClientSession::ClientSession(boost::asio::ip::tcp::socket socket, SimpleDatabase &amp;db)']]],
   ['command_24',['Command',['../classCommand.html',1,'Command'],['../classCommand.html#ac8cfaa78204f83d9c3715ace9d02feb6',1,'Command::Command()']]],
   ['command_2eh_25',['Command.h',['../Command_8h.html',1,'']]],
   ['commandbulk_26',['CommandBulk',['../classCommandBulk.html',1,'CommandBulk'],['../classCommandBulk.html#a0a0d54daa827d0e2a8653c4b8728ea01',1,'CommandBulk::CommandBulk()']]],
